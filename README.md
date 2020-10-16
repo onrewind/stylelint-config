@@ -1,3 +1,6 @@
+[![NPM Version](https://badgen.net/npm/v/@onrewind/stylelint-config)](https://www.npmjs.com/package/@onrewind/stylelint-config)
+[![Package Size](https://badgen.net/packagephobia/install/@onrewind/stylelint-config)](https://www.npmjs.com/package/@onrewind/stylelint-config)
+
 # @onrewind/stylelint-config
 
 A shareable stylelint configuration for On Rewind projects.
@@ -20,7 +23,7 @@ $ yarn add @onrewind/stylelint-config --dev
 
 ## Usage
 
-Set your [stylelint configuration][stylelint-configuration] to:
+Set your stylelint configuration to:
 
 ```json
 {
