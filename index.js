@@ -25,6 +25,7 @@ module.exports = {
     'no-missing-end-of-source-newline': true,
     'number-leading-zero': 'always',
     'number-no-trailing-zeros': true,
+    'order/properties-alphabetical-order': true,
     'selector-list-comma-newline-after': 'always',
     'selector-max-id': 0,
     'selector-no-qualifying-type': true,
