@@ -22,7 +22,8 @@
   "author": "On Rewind",
   "main": "index.js",
   "scripts": {
-    "publish": "clean-publish"
+    "publish": "clean-publish",
+    "version": "git add CHANGELOG.md"
   },
   "dependencies": {
     "stylelint-config-recommended": "3.0.0",
