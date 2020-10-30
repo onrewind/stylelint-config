@@ -1,6 +1,6 @@
 {
   "name": "@onrewind/stylelint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A shareable stylelint configuration for On Rewind projects",
   "keywords": [
     "stylelint",
